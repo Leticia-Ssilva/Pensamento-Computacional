@@ -8,4 +8,4 @@ Após essa sequência, quando iniciamos a simulação o primeiro led vermelho ac
 ![codigo.PNG](codigo1.PNG)
 ![codigo2.PNG](codigo2.PNG)
 ![codigo3.PNG](codigo3.PNG)
-![codigo4.PNG](condigo4.PNG)
+![codigo4.PNG](codigo4.PNG)
