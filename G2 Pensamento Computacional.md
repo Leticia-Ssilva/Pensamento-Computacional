@@ -5,6 +5,7 @@ Parte escrita: https://docs.google.com/document/d/1X0MRe4_LUPw_WML4_k1gj5AA9WbJi
 
 
 Algoritmo do projeto:
+
 const int sensorBaixo = 11;
 const int sensorAlto  = 6;
 
